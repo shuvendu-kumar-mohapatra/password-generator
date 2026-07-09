@@ -1,6 +1,3 @@
-**`README.md`**
-
-````markdown
 # Password Generator
 
 A simple Python CLI application that generates a random password.
@@ -27,4 +24,3 @@ python main.py
 Enter password length: 10
 Generated Password: aK9@xP2!Lm
 ```
-````
